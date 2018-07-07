@@ -1,4 +1,4 @@
-# Inline CSS in JS
+# React Inline CSS in JS
 
 Extension to CSS in JS libraries that turn inline styles to classnames.
 
