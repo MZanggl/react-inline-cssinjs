@@ -1,5 +1,5 @@
 {
-  "name": "inline-style-to-class",
+  "name": "react-inline-cssinjs",
   "version": "1.0.0",
   "description": "turns inline styles into unique classnames, takes away the hassle of reacts inline styles and various CSS in JS implementations",
   "main": "index.js",
