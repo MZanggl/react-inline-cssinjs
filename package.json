@@ -1,0 +1,21 @@
+{
+  "name": "inline-style-to-class",
+  "version": "1.0.0",
+  "description": "turns inline styles into unique classnames, takes away the hassle of reacts inline styles and various CSS in JS implementations",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "css-in-jss",
+    "jss",
+    "react",
+    "inline",
+    "style"
+  ],
+  "author": "Michael Zanggl",
+  "license": "MIT",
+  "peerDependencies": {      
+    "react": ">=15.0.1"
+  }
+}
