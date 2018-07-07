@@ -68,10 +68,10 @@ On the other hand I don't want to write this inline JSON-CSS
 What I want to write is plain old CSS
 
 ```
-<span style=`
+<span style={`
     font-size: .9em;
     display: inline-block;
-`>...</span>
+`}>...</span>
 ```
 and then turn the inline style to a class automatically.
 
