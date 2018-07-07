@@ -79,5 +79,5 @@ Just like react turns inline methods like `onClick` to event listeners.
 
 ### warning
 
-This is still more of a prototype. I have not tested the performance of it yet.
-In fact I don't want to spend too much time on this. It should be part of the build process, part of normal react in fact.
+This is still more a proof of concept. I have not tested the performance of it yet.
+In fact using it like this would probably not be optimal. It should be part of the build process. If anyone feels like writing a plugin like that, please go for it.
