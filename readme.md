@@ -2,12 +2,18 @@
 
 Extension to CSS in JS libraries that turn inline styles to classnames.
 
+### Installation
+
+```
+npm i -S git+https://github.com/MZanggl/react-inline-cssinjs
+```
+
 ### Example
 
 ```
 import React, { Component } from 'react';
 import { css } from 'react-emotion'; //not limited to emotion
-import StyleToClass from './inline-style-to-class';
+import StyleToClass from 'react-inline-cssinjs';
 
 class App extends Component {
   render() {
